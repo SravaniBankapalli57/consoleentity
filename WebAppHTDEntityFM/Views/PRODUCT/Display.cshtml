@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WebAppHTDEntityFM.Models.PRODUCTMODEL>
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+<div class="container">
+    WELCOME TO STUDENT DATA
+    @Html.ActionLink("AddProducts","PRODUCT")
+    </div>
+    <table class="table table-striped">
+
+ 
+
+    <tr>
+        <th>PID</th>
+        <th>PRONAME</th>
+        <th>DESCRIPTION</th>
+        <th>EXPIRYDATE</th>
+        <th>PRICE</th>
+         <th>Action</th>
+    </tr>
+
+ 
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.PID</td>
+
+ 
+
+            <td>@item.PRONAME</td>
+
+ 
+
+            <td>@item.DESCRIPTION</td>
+
+ 
+
+            <td>@item.EXPIRYDATE</td>
+
+ 
+
+            <td>@item.PRICE</td>
+            <td>
+                @Html.ActionLink("Update","update","PRODUCT", new {PID = item.PID},null) |
+               @Html.ActionLink("Delete","Delete","PRODUCT", new {PID = item.PID},null)
+            </td>
+        </tr>
+    }
+
+</table>
+
+

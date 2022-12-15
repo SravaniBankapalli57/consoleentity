@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WebAppHTDEntityFM.Models.ORDERS>
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<div class="container">
+    WELCOME TO STUDENT DATA
+    @Html.ActionLink("PlaceOrder","ORDERS")
+    </div>
+    <table class="table table-striped">
+
+ 
+
+    <tr>
+        <th>OrderID</th>
+        <th>CustomerID</th>
+        <th>OrderDate</th>
+        <th>ShippedDate</th>
+        <th>DeliveryDate</th>
+        <th>Address</th>
+         <th>Action</th>
+    </tr>
+
+ 
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+
+ 
+
+            <td>@item.CustomerID</td>
+
+ 
+
+            <td>@item.OrderDate</td>
+
+ 
+
+            <td>@item.ShippedDate</td>
+
+             <td>@item.DeliveryDate</td>
+
+            <td>@item.Address</td>
+            <td>
+                @Html.ActionLink("Update","update","ORDERS", new {OrderID = item.OrderID},null) |
+               @Html.ActionLink("Delete","Delete","ORDERS", new {OrderID = item.OrderID},null)
+            </td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppHTDEntityFM
+build_property.RootNamespace = WebAppHTDEntityFM
+build_property.ProjectDir = C:\Users\SRAVANI\source\repos\WebAppHTDEntityFM\WebAppHTDEntityFM\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SRAVANI\source\repos\WebAppHTDEntityFM\WebAppHTDEntityFM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/ADDCOUNTRY/AddCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUREQ09VTlRSWVxBZGRDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/EMPLOY/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRU1QTE9ZXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/EMPLOY/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRU1QTE9ZXFNhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/EMPLOY/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRU1QTE9ZXHVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/exam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/exam/pappu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZXhhbVxwYXBwdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/ITEMS/AddItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVRFTVNcQWRkSXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/ITEMS/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVRFTVNcRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/ITEMS/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSVRFTVNcdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Orders/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Orders/PlaceOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXFBsYWNlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Orders/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXHVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/PRODUCT/AddProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFJPRFVDVFxBZGRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/PRODUCT/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFJPRFVDVFxEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/PRODUCT/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFJPRFVDVFx1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/STUDENT/AddData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RVREVOVFxBZGREYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/STUDENT/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RVREVOVFxEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/STUDENT/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RVREVOVFx1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/STUDETAILS/StuDet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1RVREVUQUlMU1xTdHVEZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SRAVANI/source/repos/WebAppHTDEntityFM/WebAppHTDEntityFM/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9609d8cmk3

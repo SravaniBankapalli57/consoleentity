@@ -1,0 +1,59 @@
+﻿@model IEnumerable<WebAppHTDEntityFM.Models.STUDENT>
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<div class="container">
+    WELCOME TO STUDENT DATA
+    @Html.ActionLink("AddData","STUDENT")
+    </div>
+    <table class="table table-striped">
+
+ 
+
+    <tr>
+        <th>SID</th>
+        <th>RollNo</th>
+        <th>SName</th>
+        <th>DOB</th>
+        <th>Branch</th>
+        <th>DeptNo</th>
+        <th>EmailID</th>
+        <th>Fee</th>
+         <th>Action</th>
+    </tr>
+
+ 
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.SID</td>
+
+ 
+
+            <td>@item.RollNo</td>
+
+ 
+
+            <td>@item.SName</td>
+
+ 
+
+            <td>@item.DOB</td>
+             <td>@item.Branch</td>
+             <td>@item.DeptNo</td>
+              <td>@item.EmailID</td>
+            <td>@item.Fee</td>
+            <td>
+                @Html.ActionLink("Update","update","STUDENT", new {SID = item.SID},null) |
+               @Html.ActionLink("Delete","Delete","STUDENT", new {SID = item.SID},null)
+            </td>
+        </tr>
+    }
+
+</table>
+
