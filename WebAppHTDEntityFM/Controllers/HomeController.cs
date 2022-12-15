@@ -40,5 +40,9 @@ namespace WebAppHTDEntityFM.Controllers
         {
             return View();
         }
+        public IActionResult Privacy4()
+        {
+            return View();
+        }
     }
 }
