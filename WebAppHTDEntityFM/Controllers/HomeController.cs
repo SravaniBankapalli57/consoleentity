@@ -31,6 +31,10 @@ namespace WebAppHTDEntityFM.Controllers
         public IActionResult Privacy1()
         {
             return View();
-        } 
+        }
+        public IActionResult Privacy2ttre()
+        {
+            return View();
+        }
     }
 }
